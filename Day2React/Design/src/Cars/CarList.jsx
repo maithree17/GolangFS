@@ -23,14 +23,14 @@ export default function()
               <td>KA09asc1231</td>
               <td>Zen</td>
               <td>Smallcar</td>
-              <td><a className="btn btn-success" href= "/car/view?id=car1">View</a> </td>
+              <td><a className="btn btn-success" href= "/cars/view?id=car1">View</a> </td>
             </tr>
             <tr>
               <th scope="row">Car2</th>
               <td>KA09asc1232</td>
               <td>Beatle</td>
               <td>Hatchback</td>
-              <td><a className="btn btn-success" href= "/car/view?id=car2">View</a> </td>
+              <td><a className="btn btn-success" href= "/cars/view?id=car2">View</a> </td>
             </tr>
           </tbody>
         </table>
